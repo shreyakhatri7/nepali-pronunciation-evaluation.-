@@ -1,0 +1,10 @@
+streamlit
+urllib3
+torch
+librosa
+transformers
+pandas
+jiwer
+matplotlib
+scikit-learn
+joblib
